@@ -2,6 +2,8 @@
 
 A lightweight web browser built with PyQt5 featuring custom DNS settings, search engine customization, and bookmark management.
 
+![Browser](browser.png)
+
 ## Features
 
 - **Multiple Tabs**: Browse multiple websites simultaneously with a tabbed interface
