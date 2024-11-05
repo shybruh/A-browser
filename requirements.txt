@@ -1,0 +1,5 @@
+PyQt5>=5.15.0
+PyQtWebEngine>=5.15.0
+aria2p>=0.11.0
+psutil>=5.8.0
+pywin32>=300
