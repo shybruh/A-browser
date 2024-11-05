@@ -21,8 +21,8 @@ A lightweight web browser built with PyQt5 featuring custom DNS settings, search
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pyqt-web-browser.git
-cd pyqt-web-browser
+git clone https://github.com/shybruh/A-browser.git
+cd A-browser
 ```
 
 2. Install the required dependencies:
